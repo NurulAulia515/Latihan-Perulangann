@@ -1,0 +1,24 @@
+#include <iostream>
+#include <conio. h>
+using namespace std;
+
+main () 
+   int a, b, c, d;
+   cout<<"Masukan Jumlah Barks:";
+   cin >>;
+   for (a=d; a>=0; a--)  {
+   for (b=a; b>=0; b--)  {
+   cout<<"";
+   } 
+   for (c=1 c<=d-a; C++)  {
+   cout <<"*";
+   } 
+   for (c=1; c<d-a; C++)  {
+   cout<<"*";
+   } 
+   cout <<endl;
+   } 
+   getch() ;
+   return 0;
+   } 
+
